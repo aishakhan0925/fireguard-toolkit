@@ -1,4 +1,4 @@
-# Firebase Security and Performance Toolkit
+# Fireguard - Firebase Security and Performance Toolkit
 
 ## Overview
 
