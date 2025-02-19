@@ -14,13 +14,6 @@ The Firebase Security and Performance Toolkit is designed to help developers ana
 - **Performance Metrics:** Real-time monitoring of application performance, including response times and error rates.
 - **Migration Guidance:** Step-by-step assistance for adopting best practices and improving app security and performance.
 
-## Getting Started
-
-Follow the [Installation Guide](./docs/installation.md) to set up the toolkit in your environment.
-
-## Usage
-
-Once installed, refer to the [Usage Guide](./docs/usage.md) for detailed instructions on utilizing each feature of the toolkit.
 
 ## Contributing
 

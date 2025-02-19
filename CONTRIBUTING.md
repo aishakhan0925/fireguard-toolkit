@@ -1,6 +1,6 @@
 # Contributing to Firebase Security and Performance Toolkit
 
-Thank you for considering contributing to our project! We appreciate your time and effort. To ensure a smooth process, please follow these guidelines:
+Thank you for considering contributing to my project! We appreciate your time and effort. To ensure a smooth process, please follow these guidelines:
 
 ## Code of Conduct
 
@@ -20,9 +20,6 @@ Please read and adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 If you encounter any issues or have suggestions, please open an issue in the [Issue Tracker](https://github.com/yourusername/firebase-security-performance-toolkit/issues) with detailed information.
 
-## Development Setup
-
-For setting up the development environment, refer to the [Installation Guide](./docs/installation.md).
 
 ## Coding Standards
 
